@@ -1,0 +1,25 @@
+.menu {
+    position: absolute;
+    top: 20px;
+    right: 5%;
+    font-weight: bold;
+    display: flex;
+}
+
+.menu a {
+    text-decoration: none;
+}
+
+.social {
+    margin-right: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.menu-item {
+    color: #000;
+    background-color: #FFF;
+    border-radius: 5px;
+    padding: 12px 24px; 
+    margin-right: 15px;
+}
